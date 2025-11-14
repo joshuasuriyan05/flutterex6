@@ -1,6 +1,5 @@
 # ex6
-
-A new Flutter project.
+#Persistence Storage with SQLite Database #
 
 ## Getting Started
 
